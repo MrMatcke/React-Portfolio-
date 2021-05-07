@@ -19,12 +19,12 @@ let resumeData = {
         {
           "name":"instagram",
           "url":"https://www.instagram.com/madovation/?hl=en",
-          "className":"fa fa-twitter"
+          "className":"fa fa-instagram"
         }
       ],
     "aboutme":" Thanks for checking out my site! I love to learn! My own curiosity and creativity has lead me to discovering different skill sets over the years. Originally, I was a videographer, recording everything and making short movies. Eventually, this lead to me getting hired to film and produce videos for weddings, music videos, segments for news stations and other projects during my weekends. Eventually this lead me to accept a role in Project Managent. Working on digital products at the company I worked for. Since then, I have continued to educate myself on everything Digital! Including working on my Programming skills. I currently work for a Digital Agency where I share my digital knowledge with clients as well as help them execute on their projects. ",
-    "Location":"San Diego, CA USA",
-    "website":"tuffrocking.com",
+    "address":"San Diego, CA USA",
+    "website":"email: mr.matcke@gmail.com,     phone (619)752-0398",
     "education":[
       {
         "UniversityName":"UCSD FUll Stack Web Development Bootcamp",
